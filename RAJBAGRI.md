@@ -15,3 +15,19 @@ August/29/2023
   submission link - https://codeforces.com/contest/1856/submission/220991427
 - Question 3 link - https://codeforces.com/contest/1858/problem/A <br>
   submission link - https://codeforces.com/contest/1858/submission/220988830
+
+  ## Day 2
+
+  August/30/2023
+  ### Learn about firebase in android
+  - watch video on youtube
+  - implemented it by uploading image and retrieving in android
+  - made progress in anime wallpaper app
+ 
+  ### Coding question in codeforces
+  - Question 1 link - https://codeforces.com/contest/1843/problem/C <br>
+    submission link - https://codeforces.com/contest/1843/submission/221185824
+  - Question 2 link - https://codeforces.com/contest/1857/problem/A <br>
+    submission link - https://codeforces.com/contest/1857/submission/221183438
+    
+  
