@@ -37,7 +37,7 @@ August/29/2023
     - implement Action Bar
     - implement drawable navigation bar
     - implement Set Wallpaper Feature
-    - push the update code in github
+    - push the updated code in github
     
  
     
