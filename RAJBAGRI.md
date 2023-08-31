@@ -29,5 +29,16 @@ August/29/2023
     submission link - https://codeforces.com/contest/1843/submission/221185824
   - Question 2 link - https://codeforces.com/contest/1857/problem/A <br>
     submission link - https://codeforces.com/contest/1857/submission/221183438
+
+    ## Day 3
+
+    August/31/2023
+    ### Made progress in anime wallpaper app
+    - implement Action Bar
+    - implement drawable navigation bar
+    - implement Set Wallpaper Feature
+    - push the update code in github
+    
+ 
     
   
