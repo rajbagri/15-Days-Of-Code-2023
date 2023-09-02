@@ -59,9 +59,9 @@ August/29/2023
     submission link - (https://codeforces.com/problemset/submission/1790/221600752)
   - Question 2 link - https://codeforces.com/problemset/problem/1772/B
     submission link - https://codeforces.com/problemset/submission/1772/221597072
-  - Question 1 link - https://codeforces.com/problemset/problem/1850/A
+  - Question 3 link - https://codeforces.com/problemset/problem/1850/A
     submission link - https://codeforces.com/problemset/submission/1850/221580205
-  - Question 2 link - https://codeforces.com/problemset/problem/1703/A
+  - Question 4 link - https://codeforces.com/problemset/problem/1703/A
     submission link - https://codeforces.com/problemset/submission/1703/221577142
     
     
