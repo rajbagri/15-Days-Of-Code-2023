@@ -38,6 +38,32 @@ August/29/2023
     - implement drawable navigation bar
     - implement Set Wallpaper Feature
     - push the updated code in github
+
+  ## Day 4
+
+    september/1/2023
+  ### Tab layout and calendar view in android
+    - watch video on tab layout and calendar view
+    - implemented it in android studio
+ 
+  ## Day 5
+
+    september/2/2023
+  ### kotlin coroutines, mvvm architecture and room database basic
+    - learn about basic of kotlin coroutines
+    - learn about basic of mvvm architecture
+    - learn about room database
+
+  ### Coding question in codeforces
+  - Question 1 link - https://codeforces.com/problemset/problem/1790/B
+    submission link - (https://codeforces.com/problemset/submission/1790/221600752)
+  - Question 2 link - https://codeforces.com/problemset/problem/1772/B
+    submission link - https://codeforces.com/problemset/submission/1772/221597072
+  - Question 1 link - https://codeforces.com/problemset/problem/1850/A
+    submission link - https://codeforces.com/problemset/submission/1850/221580205
+  - Question 2 link - https://codeforces.com/problemset/problem/1703/A
+    submission link - https://codeforces.com/problemset/submission/1703/221577142
+    
     
  
     
