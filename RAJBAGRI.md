@@ -70,7 +70,7 @@ August/29/2023
   ### Coding question
   - Question 1 - check isomorphism in tree <br>
     submission link https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1 <br>
-  -Question 2 link - https://codeforces.com/contest/1850/problem/B <br>
+  - Question 2 link - https://codeforces.com/contest/1850/problem/B <br>
     submission link https://codeforces.com/contest/1850/submission/221633212
   
     
