@@ -63,6 +63,16 @@ August/29/2023
     submission link - https://codeforces.com/problemset/submission/1850/221580205
   - Question 4 link - https://codeforces.com/problemset/problem/1703/A
     submission link - https://codeforces.com/problemset/submission/1703/221577142
+
+  ## Day 6
+
+    september/3/2023
+  ### Coding question
+  - Question 1 - check isomorphism in tree
+    submission link https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1
+  -Question 2 link - https://codeforces.com/contest/1850/problem/B
+    submission link https://codeforces.com/contest/1850/submission/221633212
+  -
     
     
  
