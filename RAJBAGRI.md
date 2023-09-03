@@ -72,7 +72,7 @@ August/29/2023
   - Data binding and LiveData for UI updates.
   - ViewModel handles UI logic and data.
   - Learn it by implementing to do list app and push it in github
-  - github link - 
+  - github link - https://github.com/rajbagri/to-do-list-app
   ### Coding question
   - Question 1 - check isomorphism in tree <br>
     submission link https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1 <br>
