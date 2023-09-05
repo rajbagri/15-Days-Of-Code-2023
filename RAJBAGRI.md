@@ -88,7 +88,7 @@ August/29/2023
     september/4/2023
   ### Learn about splash screen and animation splash screen in android
   - learn how to implement splash screen
-  - splash screen using lottie animation
+  - splash screen using lottie animation <br>
   due to travelling back to manit unable to do any further task
 
   ## Day 7
