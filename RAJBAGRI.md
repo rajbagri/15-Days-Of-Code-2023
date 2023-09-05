@@ -82,6 +82,23 @@ August/29/2023
     submission link https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1?page=2&category[]=Graph&sortBy=submissions
   - Question 4 - Unit area of largest region 1's (graph) <br>
     submission link - https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1?page=2&category[]=Graph&sortBy=submissions
+
+  ## Day 7
+
+    september/4/2023
+  ### Learn about splash screen and animation splash screen in android
+  - learn how to implement splash screen
+  - splash screen using lottie animation
+  due to travelling back to manit unable to do any further task
+
+  ## Day 7
+
+    september/4/2023
+  - implement splash screen in anime wallpaper app
+  - implement lottie animation splash screen in to do list app
+  - implement tab layout in anime wallpaper app
+  - push the updated code in github
+  
   
     
     
