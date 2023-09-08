@@ -91,14 +91,32 @@ August/29/2023
   - splash screen using lottie animation <br>
   due to travelling back to manit unable to do any further task
 
-  ## Day 7
+  ## Day 8
 
-    september/4/2023
+    september/5/2023
   - implement splash screen in anime wallpaper app
   - implement lottie animation splash screen in to do list app
   - implement tab layout in anime wallpaper app
   - push the updated code in github
-  
+
+  ## Day 9
+
+   september/6/2023
+  - learn about auto infinite scrolling using viewpager 2
+  - learn about viewpager2 adapter, viewpager transformer.
+
+  ## Day 10
+    
+    september/7/2023
+  ### Android learnings
+  - learn about nested recycler view
+  - item click listener in recycler view
+  - make categories in anime wallpaper view using it
+   
+  ### Coding Related
+  - give contest in codeforces(div 3)
+      
+      
   
     
     
