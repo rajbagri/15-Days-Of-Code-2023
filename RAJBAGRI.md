@@ -115,7 +115,31 @@ August/29/2023
    
   ### Coding Related
   - give contest in codeforces(div 3)
-      
+
+  ## Day 11
+
+    september/8/2023
+  ### Android learning
+  - learn about nested recycler view
+  - made slidable viewpager for image in popular section of anime app
+  - made progress in anime app
+
+  - codeforces question
+    Question 1- https://codeforces.com/contest/110/problem/A
+    Submission link - https://codeforces.com/contest/110/submission/222476294
+
+  ## Day 12
+
+    september/9/2023
+  ### Android Learning
+  - learn itemclicklistner in drawer navigation items
+  - make privacy policy for anime wallpaper app
+
+  ## Day 13
+
+    september/10/2023
+  ## made progress anime wallpaper app
+    
       
   
     
