@@ -139,6 +139,22 @@ August/29/2023
 
     september/10/2023
   ## made progress anime wallpaper app
+
+  ## Day 14
+
+    september/11/2023
+  - made admob account
+  - learn how to implement ads using admob apps
+  - use test ads in anime wallpaper app
+
+  ## Day 15
+
+    september/12/2023
+  - completed anime wallpaper app
+  - made google play console account and set up everything
+  - ready for release once account will verify
+    
+    
     
       
   
